@@ -1,0 +1,1 @@
+console.error("SyntaxError: /Users/Thuy/Desktop/Projects/spotify_react/src/scripts/app.js: Unexpected token (33:5) while parsing file: /Users/Thuy/Desktop/Projects/spotify_react/src/scripts/app.js");
